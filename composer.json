@@ -1,0 +1,41 @@
+{
+    "name": "blomstra/conversations",
+    "description": "Base package for supporting creation of new discussions and replies from an external source",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "support": {
+        "source": "https://github.com/blomstra/flarum-ext-conversations",
+        "issues": "https://github.com/blomstra/flarum-ext-conversations/issues",
+        "email": "helpdesk@blomstra.net"
+    },
+    "require": {
+        "flarum/core": "^1.3.0",
+        "flarum/tags": "*"
+    },
+    "authors": [
+        {
+            "name": "Team Blomstra",
+            "email": "development@blomstra.net",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Blomstra\\Conversations\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "External Conversations",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-comments",
+                "backgroundColor": "#EBF1FD",
+                "color": "#3a98d0"
+            }
+        }
+    }
+}
