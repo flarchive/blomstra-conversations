@@ -1,0 +1,4 @@
+blomstra-conversations:
+  admin:
+    permissions:
+      view-conversation-source: View conversation source
