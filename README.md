@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of blomstra/conversations.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/conversations) or the [upstream repository](https://github.com/blomstra/flarum-ext-conversations).
 
-**0** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/blomstra-conversations/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^1.6.0`
+**5** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/blomstra-conversations/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^1.6.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-11-08 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-conversations/tree/archive/v0.1.0) |
+| `0.1.0-beta.1` | 2022-05-17 | `^1.3.0` | [Browse](https://github.com/flarchive/blomstra-conversations/tree/archive/v0.1.0-beta.1) |
+| `0.1.0-beta.2` | 2022-05-23 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-conversations/tree/archive/v0.1.0-beta.2) |
+| `0.1.1` | 2023-02-07 | `^1.6.0` | [Browse](https://github.com/flarchive/blomstra-conversations/tree/archive/v0.1.1) |
+| `0.1.2` | 2023-02-13 | `^1.6.0` | [Browse](https://github.com/flarchive/blomstra-conversations/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/blomstra-conversations.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-conversations.json)
 
